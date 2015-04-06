@@ -1,7 +1,7 @@
 # Hello, Selamat Datang di blog static Jekyll #
 ## Pengunaan Git sehari-hari ##
 
-** Istilah **
+### Istilah ###
 * testing lo A
 * 1
 * Working Folder : folter tempat file-file kita berada
@@ -13,3 +13,4 @@
 * aaalalala
 * 3
 * testing lo C
+* halo...
