@@ -3,3 +3,4 @@
 
 ** Istilah **
 * Working Folder : folter tempat file-file kita berada
+* Staging Area : wilayah
