@@ -4,6 +4,7 @@
 ### Istilah ###
 * testing lo A
 * 1
+* aaaaaxxx
 * Working Folder : folter tempat file-file kita berada
 * Staging Area : wilayah
 * bla..bla..
